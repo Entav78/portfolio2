@@ -17,7 +17,9 @@ export default function TeaserCard({ p }: { p: Project }) {
       <figure className="aspect-video overflow-hidden rounded-t-2xl">
         <img
           src={p.image}
-          alt={`${p.title} screenshot`}
+          alt={p.alt ?? `${p.title} screenshot`}
+          loading="lazy"
+          decoding="async"
           className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
         />
         {/* Optional teaser caption if you ever want one */}

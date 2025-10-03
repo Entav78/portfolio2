@@ -12,9 +12,16 @@ export default function Home() {
             Welcome to my portfolio
           </h1>
           <p className="mt-4 max-w-2xl text-zinc-600 leading-7">
-            I build accessible, responsive web apps with React and TypeScript.
-            Here are three selected projects from CSS Frameworks, JavaScript
-            Frameworks, and Semester Project 2 (resit).
+            I care about usability and performance. This selection includes
+            three framework projects and a live club site at ksa.no, where I
+            implemented accessible navigation, responsive layouts, and semantic
+            HTML. Built with React, TypeScript, and Tailwind.
+          </p>
+
+          {/* Tools row */}
+          <p style={{ marginTop: '.25rem' }} className="text-sm text-zinc-600">
+            <span className="font-semibold">Tools:</span> React · TypeScript ·
+            Tailwind CSS · Bootstrap · Vite · Netlify · REST APIs
           </p>
         </header>
 
@@ -25,18 +32,6 @@ export default function Home() {
             ))}
           </div>
         </Section>
-
-        <footer className="py-12 text-sm text-zinc-500">
-          Find me on{' '}
-          <a
-            className="underline"
-            href="https://github.com/entav78"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub
-          </a>
-        </footer>
       </Container>
     </main>
   );
