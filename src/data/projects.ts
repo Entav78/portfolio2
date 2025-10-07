@@ -29,7 +29,7 @@ export const projects: Project[] = [
     content: [
       'A small social feed used to practice CSS frameworks. I layered Bootstrap onto a Vite + vanilla JS frontend that talks to the Noroff Social API, then shipped it to Netlify. For Portfolio 2 I focused on polish—uniform card image sizing, responsive grids on Home/Profile, a cleaner single-post hero, and subtle UX fixes like pointer cursors and a simplified nav.',
     ],
-    liveDomain: true,
+    liveDomain: false,
     wip: false,
   },
   {
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     <p><strong>One concrete improvement</strong> — <em>Type-safe refactor + cart persistence.</em> …</p>
   `,
 
-    liveDomain: true,
+    liveDomain: false,
     wip: false,
   },
   {
