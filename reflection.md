@@ -7,7 +7,7 @@
 
 - **Name:** Hilde-Kathrine Ljosland Vatne
 - **GitHub:** (<https://github.com/Entav78>)
-- **Portfolio site:** (<https://app.netlify.com/projects/portfolio2hildevatne/overview>)
+- **Portfolio Site:** (<https://portfolio2hildevatne.netlify.app/>)
 
 ---
 
@@ -27,9 +27,9 @@ Each project includes:
 
 ## 1) CSS Frameworks
 
-**Live:** [Live](https://css-frameworks-portfolio2.netlify.app)  
-**Repo:** [css-frameworks-portfolio2](https://github.com/Entav78/css-frameworks-portfolio2)  
-**README:** [README.md](https://github.com/Entav78/css-frameworks-portfolio2/blob/main/README.md)
+**Live:** [Live](<https://css-frameworks-portfolio2.netlify.app>)  
+**Repo:** [css-frameworks-portfolio2](<https://github.com/Entav78/css-frameworks-portfolio2>)  
+**README:** [README.md](<https://github.com/Entav78/css-frameworks-portfolio2/blob/main/README.md>)
 
 ### Goal & Scope (short)
 
@@ -46,11 +46,11 @@ Each project includes:
 **Commits (with links):**
 
 - UI polish: unify card image sizes (home/profile), fix profile posts grid + header layout, add single-post responsive media, clean `styles.css` (scoped rules), add pointer cursors, and simplify Navigation.  
-  [`35a56c6`](https://github.com/Entav78/css-frameworks-portfolio2/commit/35a56c6)
+  [`35a56c6`](<https://github.com/Entav78/css-frameworks-portfolio2/commit/35a56c6>)
 - feat(ui): bootstrap card grid + profile layout.  
-  [`1fec737`](https://github.com/Entav78/css-frameworks-portfolio2/commit/1fec737)
+  [`1fec737`](<https://github.com/Entav78/css-frameworks-portfolio2/commit/1fec737>)
 - feat(auth): skin login/register with Bootstrap cards + spacing.  
-  [`e68576b`](https://github.com/Entav78/css-frameworks-portfolio2/commit/e68576b)
+  [`e68576b`](<https://github.com/Entav78/css-frameworks-portfolio2/commit/e68576b>)
 
 ### Reflection (what I learned / trade‑offs)
 
@@ -62,9 +62,9 @@ Each project includes:
 
 ## 2) JavaScript Frameworks — HildeShop
 
-**Live:** [Live](https://jsfw-2025-hilde.netlify.app)  
-**Repo:** [Repo](<<https://github.com/Entav78/jsfw-2025-hilde>)  
-**README:** [README](https://github.com/Entav78/jsfw-2025-hilde/blob/main/README.md)
+**Live:** [Live](<https://jsfw-2025-hilde.netlify.app>)  
+**Repo:** [Repo](<https://github.com/Entav78/jsfw-2025-hilde>)  
+**README:** [README](<https://github.com/Entav78/jsfw-2025-hilde/blob/main/README.md>)
 
 ### Goal & Scope (short)
 
@@ -79,9 +79,9 @@ Each project includes:
 **Commit links (evidence):**
 
 - **Add Netlify SPA fallback (`_redirects`) / deep-link refresh**
-  - Initial redirect: [`70172d6`](https://github.com/Entav78/jsfw-2025-hilde/commit/70172d66c2c6c1b2b2c2e0f9b3b2f2f0a7a9f2d6)
-  - Follow-up fallback chore: [`cd7253c`](https://github.com/Entav78/jsfw-2025-hilde/commit/cd7253cf0a1b3b83f0b3c5c7f2a2ef3b2b2f3a2d)
-  - Asset URL fix to keep SPA fallback working: [`8a71432`](https://github.com/Entav78/jsfw-2025-hilde/commit/8a71432b9b2f1a4c8c5e6a7c3b2e9f1a9c7d3f21)
+  - Initial redirect: [`70172d6`](<https://github.com/Entav78/jsfw-2025-hilde/commit/70172d66c2c6c1b2b2c2e0f9b3b2f2f0a7a9f2d6>)
+  - Follow-up fallback chore: [`cd7253c`](<https://github.com/Entav78/jsfw-2025-hilde/commit/cd7253cf0a1b3b83f0b3c5c7f2a2ef3b2b2f3a2d>)
+  - Asset URL fix to keep SPA fallback working: [`8a71432`](<https://github.com/Entav78/jsfw-2025-hilde/commit/8a71432b9b2f1a4c8c5e6a7c3b2e9f1a9c7d3f21>)
 
 - **Split cart context/provider + test updates**
   - Commits touching the `src/context` folder (introducing `cart.ts` + `CartProvider.tsx`):  
