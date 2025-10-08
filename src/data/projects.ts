@@ -52,7 +52,7 @@ export const projects: Project[] = [
       <li><strong>Testing:</strong> Header, Cart, Contact, Home (search/sort logic).</li>
       <li><strong>UX:</strong> Accessible semantics, keyboard controls, toasts, responsive layout.</li>
     </ul>
-    <p><strong>One concrete improvement</strong> — <em>Type-safe refactor + cart persistence.</em> …</p>
+    <p><strong>One concrete improvement</strong> — <em>Reliable SPA routing on Netlify (deep-link refresh works)</em> and <em>React context split (separate CartProvider and useCart)</em> for cleaner imports and simpler tests.</p>
   `,
 
     liveDomain: false,
