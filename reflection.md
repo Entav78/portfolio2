@@ -165,3 +165,12 @@ Include:
 4. **Project 2** — SPA routing fix on Netlify; context split; quick demo of cart & tests note.  
 5. **Project 3** — SEO + meta/robots/sitemap; accessibility “reveal images”; show Lighthouse.  
 6. **Wrap** — Where to find code, what I’d improve next, thanks.
+
+---
+
+## Presentation video
+
+- YouTube (unlisted): <https://youtu.be/AjnNIuT9Z18>
+- The MP4 file is also attached in Moodle.
+
+[![Watch the video](https://img.youtube.com/vi/AjnNIuT9Z18/hqdefault.jpg)](https://youtu.be/AjnNIuT9Z18 "Portfolio 2 presentation")
